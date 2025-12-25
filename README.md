@@ -38,8 +38,6 @@ The trained Machine Learning pipeline is deployed using **Streamlit** for intera
 🔗 **Streamlit Live App:**  
 https://abhishek-ipl-win-prediction.streamlit.app/ 
 
-> *(Replace with your actual deployed Streamlit Cloud URL)*
-
 ---
 
 ## 📊 Dataset & Kaggle Notebook
